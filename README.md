@@ -1,4 +1,4 @@
-# SplitScreen.me Hub
+# SplitScreen.me Hub v2
 <a href="https://hub.splitscreen.me" target="_blank"><img src="https://www.splitscreen.me/img/splitscreen-me-logo.png" width="100" alt="SplitScreen.me Logo"></a>
 ## License
 
