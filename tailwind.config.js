@@ -11,9 +11,20 @@ module.exports = {
     ],
 
     theme: {
+        container: {
+            center: true,
+            padding: {
+                DEFAULT: '1rem',
+                xl: '2.5rem',
+                '2xl': '8rem'
+            }
+        },
         extend: {
+            colors: {
+                'primary-6000': '#0284c7',
+            },
             fontFamily: {
-                sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+                sans: ['Poppins', ...defaultTheme.fontFamily.sans],
             },
         },
     },
