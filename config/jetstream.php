@@ -60,9 +60,9 @@ return [
     'features' => [
         Features::termsAndPrivacyPolicy(),
         Features::profilePhotos(),
+        Features::accountDeletion(),
         // Features::api(),
         // Features::teams(['invitations' => true]),
-        Features::accountDeletion(),
     ],
 
     /*
